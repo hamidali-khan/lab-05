@@ -1,4 +1,4 @@
-# CMPUT 301 : Lab 5 - Firestore
+# CS 360-S26 : Lab 5 - Firestore
 
 ## Student Details
 

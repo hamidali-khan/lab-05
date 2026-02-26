@@ -2,16 +2,11 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Hamid Ali Khan`
+- **CCID:** `27100156`
 
 ## References and Resources
-
-List any resources used here, or simply put `N/A` if not applicable.
+OpenAI. (2026). ChatGPT (GPT-5.2 Thinking) [Large language model]. Used for implementation guidance for swipe-left deletion and Firestore integration. Accessed: 2026-02-26.
 
 ## Verbal Collaboration
-
-| Student Name | CCID     |
-| ------------ | -------- |
-| `<example1>` | `<CCID>` |
-| `<example2>` | `<CCID>` |
+N/A
